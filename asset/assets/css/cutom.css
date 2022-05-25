@@ -5,3 +5,8 @@
 .star{
     color: yellow;
 }
+
+.footer-widget__about-logo img{
+    width: 240px;
+    height: 100px;
+}
